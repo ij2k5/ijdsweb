@@ -1,2 +1,2 @@
-# ijdsweb
-discord web
+서버 업데이트 중입니다.
+잠시만 기다려주세요
